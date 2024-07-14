@@ -7,7 +7,8 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 
 ### Profession 💼 
 - JavaScript ES6, TypeScript,  
-- React.js, Redux,  
+- React.js, Redux,
+- REST API, GraphQL,
 - HTML, CSS, SASS, RWD,  
 - Bootstrap, Tailwind, Styled Components, Material UI.
 
