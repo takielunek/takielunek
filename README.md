@@ -1,7 +1,9 @@
-Hi! I'm <h4>Karolina Anna Jesionek,</h4> and I'm passionate about web development! I love turning ideas into interactive and dynamic web applications! 💻✨
+Hi! I'm takielunek, I mean <h4>Karolina Anna Jesionek,</h4> and I'm passionate about web development! I love turning ideas into interactive and dynamic web applications! 💻✨
 
 ### Experience 🛠️
 Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
+
+I like to write starting from hyphens...
 
 ### Profession 💼 
 - JavaScript ES6, TypeScript  
