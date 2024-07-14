@@ -17,4 +17,4 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 - Reading books 📚
 
 Let's connect and create something amazing together!<br>
-📧 [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com)
+📧 <karolina.anna.jesionek@gmail.com>
