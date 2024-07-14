@@ -8,7 +8,12 @@ Front-End Developer Intern with experience in:
 - JavaScript ES6, TypeScript  
 - React.js, Redux  
 - HTML, CSS, SASS, RWD  
-- Bootstrap, Tailwind, Styled Components
+- Bootstrap, Tailwind, Styled Components.
+
+### Free Time ⏱️
+- Mountain biking 🚵‍♀️
+- Swimming 🏊‍♀️
+- Reading books 📚
 
 Let's connect and create something amazing together!<br>
 📧 [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com) | 📞 +48 737 161 885
