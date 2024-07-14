@@ -3,7 +3,7 @@ Hi! I'm takielunek, I mean **Karolina Anna Jesionek**, and I'm passionate about 
 ### Experience 🛠️
 Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
 
-<h6>I like to write starting from hyphens...</h6> ⚠️
+<h6>I like to write starting from hyphens... ⚠️ </h6>
 
 ### Profession 💼 
 - JavaScript ES6, TypeScript  
