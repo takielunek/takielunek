@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm Karolina Anna Jesionek, and I'm passionate about web development! 
 
-<!--
-**takielunek/takielunek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience 🛠️
+Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
 
-Here are some ideas to get you started:
+Profession 💼
+Front-End Developer Intern with experience in:
+- JavaScript ES6, TypeScript,
+- React.js, Redux,
+- HTML, CSS, SASS, RWD,
+- Bootstrap, Tailwind, Styled Components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and create something amazing together! 📧 karolina.anna.jesionek@gmail.com | 📞 +48 737 161 885
