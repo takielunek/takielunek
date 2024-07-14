@@ -14,5 +14,7 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 - Swimming 🏊‍♀️
 - Reading books 📚
 
+Check out! [https://karolina-jesionek.netlify.app/](https://karolina-jesionek.netlify.app/). 🌐
+
 Let's connect and create something amazing together!<br>
 📧 [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com) | 📞 +48 737 161 885
