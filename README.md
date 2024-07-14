@@ -1,4 +1,4 @@
-I'm Karolina Anna Jesionek, and I'm passionate about front-end development!
+I'm <h3>Karolina Anna Jesionek</h3>, and I'm passionate about web development! I love turning ideas into interactive and dynamic web applications! 💻✨
 
 ### Experience 🛠️
 Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
