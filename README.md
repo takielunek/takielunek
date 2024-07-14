@@ -6,9 +6,9 @@ Check out at [https://karolina-jesionek.netlify.app/](https://karolina-jesionek.
 Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
 
 ### Profession 💼 
-- JavaScript ES6, TypeScript  
-- React.js, Redux  
-- HTML, CSS, SASS, RWD  
+- JavaScript ES6, TypeScript,  
+- React.js, Redux,  
+- HTML, CSS, SASS, RWD,  
 - Bootstrap, Tailwind, Styled Components.
 
 ### Free Time ⏱️
