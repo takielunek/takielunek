@@ -9,7 +9,7 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 - JavaScript ES6, TypeScript,  
 - React.js, Redux,  
 - HTML, CSS, SASS, RWD,  
-- Bootstrap, Tailwind, Styled Components.
+- Bootstrap, Tailwind, Styled Components, Material UI.
 
 ### Free Time ⏱️
 - Mountain biking 🚵‍♀️
