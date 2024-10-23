@@ -10,7 +10,13 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 - React.js, Redux,
 - REST API, GraphQL,
 - HTML, CSS, SASS, RWD,  
-- Bootstrap, Tailwind, Styled Components, Material UI.
+- Bootstrap, Tailwind, Styled Components, Material UI,
+- Git,
+- Visual Studio Code.
+
+### Currently learning 💪
+- Angular,
+- React Native.
 
 ### Free Time ⏱️
 - Mountain biking 🚵‍♀️
@@ -19,3 +25,6 @@ Currently, I'm sharpening my skills as a front-end developer intern at Findao Sp
 
 Let's connect and create something amazing together!<br>
 📧 <karolina.anna.jesionek@gmail.com>
+
+* Email: [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com)
+* LinkedIn: [Karolina Jesionek - Junior Frontend Developer](https://www.linkedin.com/in/karolina-jesionek-frontend-developer/)
