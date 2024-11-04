@@ -3,7 +3,8 @@ Hi! I'm takielunek, I mean **Karolina Anna Jesionek**, and I'm passionate about 
 Check out at https://karolina-jesionek.netlify.app/! 🌐
 
 ### Experience 🛠️
-Currently, I'm sharpening my skills as a junior frontend developer at Findao Sp. z o.o., working on exciting projects like Youmoney and more. 🚀
+Findao Sp. z o.o.
+I developed my skills as a Junior Frontend Developer, working on exciting projects like Youmoney and more. 🚀
 
 ### Profession 💼 
 - JavaScript ES6, TypeScript,  
