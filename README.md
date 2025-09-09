@@ -1,7 +1,5 @@
 Hi! I'm takielunek, I mean **Karolina Anna Jesionek**, and I'm passionate about web development! I love turning ideas into interactive and dynamic web applications! 💻✨ 
 
-Check out at https://karolina-jesionek.netlify.app/! 🌐
-
 ### Experience 🛠️
 Findao Sp. z o.o.
 I developed my skills as a Junior Frontend Developer, working on exciting projects like Youmoney and more. 🚀
