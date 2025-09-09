@@ -25,5 +25,4 @@ I developed my skills as a Junior Frontend Developer, working on exciting projec
 - Reading books 📚
 
 Let's connect and create something amazing together!<br>
-📧 Email: [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com)<br>
-🔗 LinkedIn: [Karolina Jesionek - Junior Frontend Developer](https://www.linkedin.com/in/karolina-jesionek-frontend-developer/)
+📧 Email: [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com)
